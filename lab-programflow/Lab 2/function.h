@@ -38,7 +38,7 @@ void radius(){
 cout<<"\n\nEnter the radius of the circle that you would like the area to?"<<endl;
 cin>>Rad;
     Area=(Pi*Rad*Rad);
-cout<<"The area of the circle is "<<Area<<endl;
+cout<<"The area of the circle is "<<Area<<"m^2"<<endl;
 
     }
 void rectangle(){
@@ -53,7 +53,7 @@ cout<<"Enter the length of the rectangle"<<endl;
 cin>>length;
 
     recarea=(length*height);
-cout<<"The area of the rectangle is "<<recarea<<endl;
+cout<<"The area of the rectangle is "<<recarea<<"m^2"<<endl;
 
 
 }
@@ -88,7 +88,7 @@ float area=0;
 
 for (radi=1; radi<=120; ++radi){
 area=(PI*radi*radi);
- cout<<area<<" 1-120"<<endl;
+ cout<<area<<"m^2 with the radius from 1-120"<<endl;
 }
 }
 void Tempconversion(){
@@ -120,17 +120,14 @@ system("pause");
 void evennumbers(){
 //Task 10
 
-int even=0;
-
 for (int num1=0; num1<=1000; ++num1){
-if (even=(num1%2==0)){
+if (num1%2==0){
  cout<<num1<<endl;
 }
 }
 }
 void oddnumbers(){
 //Task 11
-int odd=0;
 int oddnum1=0;
 int oddnum2=0;
 
@@ -140,9 +137,9 @@ cout<<"Enter number 2:"<<endl;
 cin>>oddnum2;
 
 cout<<"The odd numbers between the two numbers entered are:"<<endl;
-for (oddnum1; oddnum1<=oddnum2; ++oddnum1){
-if (odd=(oddnum1%2==1)){
- cout<<oddnum1<<endl;
+for (int oddnum3 = oddnum1; oddnum3<=oddnum2; oddnum3++){
+if (oddnum3%2==1){
+ cout<<oddnum3<<endl;
 }
 }
 }
@@ -233,7 +230,8 @@ while (grade != -1)
  cin >> grade;
 }
 if (count > 0)
- cout << "Average is " << (double) sum / count;
+ cout << "Average is " << (double) sum / count<<endl;
+ system ("pause");
 }
 
 void Question15(){
