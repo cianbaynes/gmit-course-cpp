@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1613284868 source:c:\users\cianbaynes\gmit\programming\gmit-course-cpp\lab-program-class\lab-program-class\main.cpp
+	<iostream>
+	"labinfo.h"
+
+1613133702 c:\users\cianbaynes\gmit\programming\gmit-course-cpp\lab-program-class\lab-program-class\function.h
+
+1613285139 c:\users\cianbaynes\gmit\programming\gmit-course-cpp\lab-program-class\lab-program-class\labinfo.h
+
