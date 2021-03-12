@@ -1,39 +1,27 @@
-#ifndef PLAYER_H_INCLUDED
-#define PLAYER_H_INCLUDED
+#include <iostream>
 
-
-
-
+using namespace std;
+#include "football_club.h"
 
 class Player{
 private:
     string forename;
     string surname;
     string position;
-    int mobileNumber;
-    string Name;
-    string DOB;
-
+    int mobileNumber:
 
 
 public:
  Player(string forename, string surname){
 this->forename=forename;
 this->surname=surname;
-
 }
-
  Player(string forename, string surname, int mobileNumber, string position){
  this->forename=forename;
  this->surname=surname;
  this->mobileNumber=mobileNumber;
  this->position=position;
-
  }
-
-    Player(){
-
-    }
     void printPlayerInfo(){
     }
     string getForename(){
@@ -48,12 +36,6 @@ this->surname=surname;
     string getPosition(){
     return position;
     }
-    string getName(){
-    return Name;
-    }
-    string getDOB(){
-    return DOB;
-    }
 
     void setForename(string forename){
     }
@@ -61,13 +43,18 @@ this->surname=surname;
     }
     void setMobileNumber(int mobileNumber){
     }
-    void setPosition(string position){
+     void setPosition(string position){
     }
-    void setName(string Name){
-    }
-    void setDOB(string Year){
-
-    }
-
 };
-#endif // PLAYER_H_INCLUDED
+
+
+int main()
+{
+
+    return 0;
+
+
+
+
+
+}
