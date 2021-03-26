@@ -1,0 +1,120 @@
+# depslib dependency file v1.0
+1615554656 source:/home/stephen/Projects/gmit-course-cpp/football/main.cpp
+	<iostream>
+	"football_club.h"
+
+1615554598 /home/stephen/Projects/gmit-course-cpp/football/football_club.h
+	<iostream>
+	"player.h"
+
+1614874581 source:/home/stephen/Projects/gmit-course-cpp/football/football_club.cpp
+	"football_club.h"
+
+1615554673 /home/stephen/Projects/gmit-course-cpp/football/player.h
+	<iostream>
+
+1615488141 source:/home/stephen/Projects/gmit-course-cpp/football/player.cpp
+	"player.h"
+
+1614875536 /home/stephen/Projects/gmit-course-cpp/football/date.h
+
+1615549574 source:/home/stephen/Projects/gmit-course-cpp/football/src/atest.cpp
+	"atest.h"
+
+1615549574 /home/stephen/Projects/gmit-course-cpp/football/include/atest.h
+
+1616088719 source:/home/freddy/Projects/gmit-course-cpp/football/football_club.cpp
+	"football_club.h"
+
+1616088706 /home/freddy/Projects/gmit-course-cpp/football/football_club.h
+	<iostream>
+	"player.h"
+
+1616089234 /home/freddy/Projects/gmit-course-cpp/football/player.h
+	<iostream>
+
+1616089661 source:/home/freddy/Projects/gmit-course-cpp/football/player.cpp
+	"player.h"
+
+1615549574 source:/home/freddy/Projects/gmit-course-cpp/football/src/atest.cpp
+	"atest.h"
+
+1615549574 /home/freddy/Projects/gmit-course-cpp/football/include/atest.h
+
+1616089465 source:/home/freddy/Projects/gmit-course-cpp/football/main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<sstream>
+	"football_club.h"
+
+1616750395 source:c:\users\cianbaynes\gmit\programming\gmit-course-cpp\lab-program-footbalclub-stephen\football\football_club.cpp
+	"football_club.h"
+
+1616750395 c:\users\cianbaynes\gmit\programming\gmit-course-cpp\lab-program-footbalclub-stephen\football\football_club.h
+	<iostream>
+	"player.h"
+
+1616750395 c:\users\cianbaynes\gmit\programming\gmit-course-cpp\lab-program-footbalclub-stephen\football\player.h
+	<iostream>
+
+1616750395 source:c:\users\cianbaynes\gmit\programming\gmit-course-cpp\lab-program-footbalclub-stephen\football\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<sstream>
+	"football_club.h"
+
+1616750395 source:c:\users\cianbaynes\gmit\programming\gmit-course-cpp\lab-program-footbalclub-stephen\football\player.cpp
+	"player.h"
+
+1616750396 source:c:\users\cianbaynes\gmit\programming\gmit-course-cpp\lab-program-footbalclub-stephen\football\src\atest.cpp
+	"atest.h"
+
+1616750396 c:\users\cianbaynes\gmit\programming\gmit-course-cpp\lab-program-footbalclub-stephen\football\include\atest.h
+
+1616763970 source:c:\users\cianbaynes\gmit\programming\gmit-course-cpp\lab-code-refactor\football_club.cpp
+	"football_club.h"
+
+1616763217 c:\users\cianbaynes\gmit\programming\gmit-course-cpp\lab-code-refactor\football_club.h
+	<iostream>
+	"player.h"
+
+1616762124 c:\users\cianbaynes\gmit\programming\gmit-course-cpp\lab-code-refactor\player.h
+	<iostream>
+
+1616763641 source:c:\users\cianbaynes\gmit\programming\gmit-course-cpp\lab-code-refactor\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<sstream>
+	"football_club.h"
+
+1616764380 source:c:\users\cianbaynes\gmit\programming\gmit-course-cpp\lab-code-refactor\player.cpp
+	"player.h"
+
+1616750396 source:c:\users\cianbaynes\gmit\programming\gmit-course-cpp\lab-code-refactor\src\atest.cpp
+	"atest.h"
+
+1616750396 c:\users\cianbaynes\gmit\programming\gmit-course-cpp\lab-code-refactor\include\atest.h
+
+1616765678 source:c:\users\cianbaynes\gmit\programming\gmit-course-cpp\lab-code-refactor\lab-code-refactor\football_club.cpp
+	"football_club.h"
+
+1616765790 c:\users\cianbaynes\gmit\programming\gmit-course-cpp\lab-code-refactor\lab-code-refactor\football_club.h
+	<iostream>
+	"player.h"
+
+1616762124 c:\users\cianbaynes\gmit\programming\gmit-course-cpp\lab-code-refactor\lab-code-refactor\player.h
+	<iostream>
+
+1616765743 source:c:\users\cianbaynes\gmit\programming\gmit-course-cpp\lab-code-refactor\lab-code-refactor\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<sstream>
+	"football_club.h"
+
+1616765693 source:c:\users\cianbaynes\gmit\programming\gmit-course-cpp\lab-code-refactor\lab-code-refactor\player.cpp
+	"player.h"
+
